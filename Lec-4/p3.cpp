@@ -10,6 +10,7 @@ int main(){
     bool flag = true;
 
     cout << a << endl << b << endl << ch << endl << flag <<  endl;
+    cout << "Size of a is : " << sizeof(a)<< endl;
 
 
 }
