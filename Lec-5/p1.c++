@@ -2,13 +2,17 @@
 using namespace std;
 
 int main(){
-    int score;
+
+    //Integer type variable declared
+    int age;
     int b =7;
 
-    cout << "Enter the age of the candidate : ";
-    cin >> score;
+    //Take input for integer variable
+    cout << "Enter the age of the candidate : " << endl;
+    cin >> age;
 
-    if (score >= 18 )
+    //Condition for voting eligibility
+    if (age >= 18 )
     {
         
         cout << "Candidate is eligible to vote..";
