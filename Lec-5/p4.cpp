@@ -39,7 +39,8 @@ int main()
     cin >> side;
     cout << endl;
 
-    /*  ***
+    /*  
+     ***
      ***
      ***
      */
